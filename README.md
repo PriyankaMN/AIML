@@ -1,4 +1,4 @@
-# 📘 BITS Pilani AI/ML Journey
+# 📘 AI/ML Journey
 
 Welcome to my AI/ML learning repository!
 
